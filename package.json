@@ -1,0 +1,24 @@
+{
+  "name": "bitcoin-price-api",
+  "version": "1.0.0",
+  "description": "Bitcoin price API using CoinGecko",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "keywords": [
+    "bitcoin",
+    "price",
+    "api",
+    "coingecko"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
